@@ -1,20 +1,3 @@
-\*\*## Hi there 👋
-
-<!--
-**lrina7/lrina7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 <img src="https://i.pinimg.com/originals/05/fa/1d/05fa1dc596756a2058fdf49f825a0544.gif" align="center" style="width: 100%" />
 </div>  
@@ -80,17 +63,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.
-
-<!-- BLOG-POST-LIST:END -->
-
 <br/>
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
 
 <br/>
 
